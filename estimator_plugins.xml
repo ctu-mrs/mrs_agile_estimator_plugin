@@ -1,0 +1,5 @@
+<library path="lib/libMrsUavStateEstimators_Agile">
+  <class name="agile/AgileEstimatorPlugin" type="agile::Agile" base_class_type="mrs_uav_managers::StateEstimator">
+    <description>Agile state estimator</description>
+  </class>
+</library>
